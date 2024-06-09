@@ -12,7 +12,7 @@
 </div>
 </p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
-<p align="center">
+
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m @ImPanica
 - 👀 I’m interested in programming in C# and test automation.
@@ -25,7 +25,7 @@
 ### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImPanica&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImPanica)](https://git.io/streak-stats)
-</p>
+
 <p align="center">
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
