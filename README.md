@@ -20,8 +20,7 @@
 - 💞️ I’m looking to collaborate on interesting projects related to C# development and test automation.
 - 📫 How to reach me: [Telegram](https://t.me/yarshev)
 - ⚡ Fun fact: I have a knack for solving complex puzzles and enjoy exploring the intersection of technology and creativity. In my spare time, I love to experiment with new automation tools and frameworks.
-</p>
-<p align="center">
+---
 ### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImPanica&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImPanica)](https://git.io/streak-stats)
