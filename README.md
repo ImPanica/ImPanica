@@ -12,6 +12,7 @@
 </div>
 </p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
 ---
 
 ### :woman_technologist: About Me :
@@ -40,7 +41,11 @@
    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/>
    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" alt=".NET Badge"/>
 </div>
+
 ---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ImPanica&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
+
 > "The only way to do great work is to love what you do." - Steve Jobs
