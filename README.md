@@ -13,6 +13,7 @@
 </p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 ---
+
 ### :woman_technologist: About Me :
 - 👋 Hi, I’m @ImPanica
 - 👀 I’m interested in programming in C# and test automation.
@@ -20,11 +21,15 @@
 - 💞️ I’m looking to collaborate on interesting projects related to C# development and test automation.
 - 📫 How to reach me: [Telegram](https://t.me/yarshev)
 - ⚡ Fun fact: I have a knack for solving complex puzzles and enjoy exploring the intersection of technology and creativity. In my spare time, I love to experiment with new automation tools and frameworks.
+  
 ---
+
 ### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImPanica&show_icons=true&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImPanica)](https://git.io/streak-stats)
+
 ---
+
 ### :hammer_and_wrench: Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
