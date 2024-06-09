@@ -1,14 +1,18 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-<p align="center">
+<p>
 <div id="badges" align="center">
+   <p>
    <a href="https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D1%8F%D1%80%D1%88%D0%B5%D0%B2%D0%B8%D1%87-65974a253/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
+      </p>
+   <p>
    <a>
       <img src="https://komarev.com/ghpvc/?username=ImPanica&style=flat-square" alt="Profile Views"/>
    </a>
+      </p>
 </div>
 </p>
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
