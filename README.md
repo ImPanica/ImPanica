@@ -1,7 +1,9 @@
 <div id="header" align="center">
    <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+![Profile Views](https://komarev.com/ghpvc/?username=ImPanica&style=flat-square)
 
+### :woman_technologist: About Me :
 - 👋 Hi, I’m @ImPanica
 - 👀 I’m interested in programming in C# and test automation.
 - 🌱 I’m currently learning algorithms and diving deeper into C#, while also working on automation using this language.
@@ -13,17 +15,11 @@
    <a href="https://www.linkedin.com/in/%D0%B5%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9-%D1%8F%D1%80%D1%88%D0%B5%D0%B2%D0%B8%D1%87-65974a253/">
      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
-   <a href="your-youtube-URL">
-     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-   </a>
-   <a href="your-twitter-URL">
-     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-   </a>
 </div>
 
 ### :fire: My Stats :
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ImPanica&show_icons=true&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=ImPanica&style=flat-square)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ImPanica)](https://git.io/streak-stats)
 
 > "The only way to do great work is to love what you do." - Steve Jobs
 
